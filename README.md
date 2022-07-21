@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @abinthaha
+- 📫 More than 7 years of experience in Front End Development.
 - 👀 I’m interested in Front end technologies like React+Redux, Angular 2+, Vue+VueX, HTML5, CSS3, SCSS
 - 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on ReactJS
